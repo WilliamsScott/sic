@@ -3,6 +3,9 @@ $(function () {
         "forceNew": true
     })
 
+
+//EJEMPLO DE CAMBIO
+
     $(document).ready(function () {
         $('select').material_select();
         cargarCondominio("#rut_c");
